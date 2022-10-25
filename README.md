@@ -43,7 +43,7 @@ As per selected trained model is dumped to pickled format for app development
 
 
 # Deployed:
-Deployed on heroku -- [https://airplanepricepredictor.herokuapp.com/predict](https://flight-fare-prediction-msb.herokuapp.com/predict)
+Deployed on heroku -- [here](https://flight-fare-prediction-msb.herokuapp.com/predict)
 
 
 
