@@ -10,7 +10,7 @@ The main goal is to predict the fares of the flights based on different factors 
 # Approach:
 The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
 
-# Dataset:
+# Dataset:[here](https://github.com/Bharathkumar-ms/Flight-fare-prediction1/tree/main/Data)
 
 https://github.com/coderpro2000/flight-price/tree/main/Data
 
