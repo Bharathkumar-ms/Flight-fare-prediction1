@@ -20,7 +20,7 @@ I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
 
 
 # Data visualization
-Ploted colleration matrix to get insights about dependend and independed variables. Made chats like( Bocxplot,countplot,distplot,pairplot).
+Ploted correlation matrix to get insights about dependend and independed variables. Made chats like( Bocxplot,countplot,distplot,pairplot).
 
 ![](https://github.com/coderpro2000/flight-price/blob/main/Docs/vis.png)
 
