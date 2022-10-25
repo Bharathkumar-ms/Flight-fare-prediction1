@@ -12,7 +12,6 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
 
 # Dataset:[here](https://github.com/Bharathkumar-ms/Flight-fare-prediction1/tree/main/Data)
 
-https://github.com/coderpro2000/flight-price/tree/main/Data
 
 # Project Various Step
 
